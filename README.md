@@ -1,17 +1,17 @@
 # Mock interview questions
 
-(Questions)[https://docs.google.com/document/d/1s2-Kbw8xblhXAA2DDW-sOWipFULGvXRLwClbFBC1S3c/edit#heading=h.ung83uz9auvc]
+ [https://docs.google.com/document/d/1s2-Kbw8xblhXAA2DDW-sOWipFULGvXRLwClbFBC1S3c/edit#heading=h.ung83uz9auvc](Questions)
 
  -------------------------------------------------------------------------
 
 # Python Django cs questions
 
-(Questions)[https://docs.google.com/document/d/1reBjhqOBc1NTyPTYkD95brSaasIhoYcO1vHaFxTKSdc/edit]
+ [https://docs.google.com/document/d/1reBjhqOBc1NTyPTYkD95brSaasIhoYcO1vHaFxTKSdc/edit](Questions)
 
  ------------------------------------------
 # Cs Fundamental Questions
 
-(Questions)[https://docs.google.com/document/d/1ADi8hINp8bF_SkOwkl0x7B62MV99lWgqRv2gksBxEEg/edit]
+ [https://docs.google.com/document/d/1ADi8hINp8bF_SkOwkl0x7B62MV99lWgqRv2gksBxEEg/edit](Questions)
 
  ------------------------------------
 # Angular Interview Questions & Answers
